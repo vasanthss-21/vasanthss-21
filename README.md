@@ -22,36 +22,76 @@
 ## 👨‍💻 About Me
 
 <img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<div align="center">
 
-```java
-public class Vasanth {
+### 👋 Hey, I'm Vasanth S S
 
-    String name = "Vasanth S S";
-    String location = "Chennai, Tamil Nadu, India";
-    String degree = "B.E. Electronics & Communication Engineering";
+**Electronics & Communication Engineer • Embedded Systems • IoT • Full-Stack Development**
 
-    String[] stack = {
-        "Java", "C", "JavaScript",
-        "Embedded C", "React.js",
-        "Spring Boot", "ESP32", "IoT"
-    };
+</div>
 
-    String[] currentlyLearning = {
-        "Embedded Systems",
-        "IoT & Hardware Integration",
-        "Industrial Automation",
-        "Communication Protocols"
-    };
+<table align="center">
+<tr>
+<td width="50%" valign="top">
 
-    String funFact =
-        "I enjoy turning electronics prototypes into connected systems.";
+### ⚡ Who Am I?
 
-    String motto() {
-        return "Build it. Debug it. Make it smarter.";
-    }
-}
-```
+🎓 **B.E. Electronics & Communication Engineering**  
+📍 **Chennai, Tamil Nadu, India**
 
+I enjoy building **real-world systems** that connect
+electronics, software and intelligent technologies.
+
+My main interests include:
+
+🔹 Embedded Systems & IoT  
+🔹 ESP32 & Raspberry Pi  
+🔹 Full-Stack Development  
+🔹 Industrial Automation  
+🔹 Communication Protocols  
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧠 My Tech Universe
+
+**Languages**
+
+`Java` `C` `JavaScript` `SQL` `Embedded C`
+
+**Development**
+
+`React.js` `Spring Boot` `Node.js` `REST APIs`
+
+**Embedded & IoT**
+
+`ESP32` `Raspberry Pi` `Arduino` `Firebase`
+
+**Protocols**
+
+`CAN` `I2C` `SPI` `UART`
+
+**Currently Exploring**
+
+🚀 Embedded Systems  
+📡 IoT & Hardware Integration  
+🏭 Industrial Automation  
+🤖 Edge AI & Machine Learning
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 💡 My Philosophy
+
+> **"Build it. Debug it. Make it smarter."**
+
+⚙️ Hardware → 🔗 Connectivity → 💻 Software → 🚀 Real-World Impact
+
+</div>
 ---
 
 ## 🛠️ Tech Stack
