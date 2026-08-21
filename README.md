@@ -1,4 +1,4 @@
-# Vasanth S S
+# 👋 Vasanth S S
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=VASANTH%20S%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=ECE%20Engineer%20%7C%20Embedded%20Systems%20%7C%20IoT%20%7C%20Full-Stack%20Developer&descAlignY=62&descSize=16" width="100%"/>
@@ -19,9 +19,8 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 <div align="center">
 
 ### 👋 Hey, I'm Vasanth S S
@@ -36,7 +35,7 @@
 
 ### ⚡ Who Am I?
 
-🎓 **B.E. Electronics & Communication Engineering**  
+🎓 **B.E. Electronics & Communication Engineering**
 📍 **Chennai, Tamil Nadu, India**
 
 I enjoy building **real-world systems** that connect
@@ -44,11 +43,11 @@ electronics, software and intelligent technologies.
 
 My main interests include:
 
-🔹 Embedded Systems & IoT  
-🔹 ESP32 & Raspberry Pi  
-🔹 Full-Stack Development  
-🔹 Industrial Automation  
-🔹 Communication Protocols  
+🔹 Embedded Systems & IoT
+🔹 ESP32 & Raspberry Pi
+🔹 Full-Stack Development
+🔹 Industrial Automation
+🔹 Communication Protocols
 
 </td>
 
@@ -74,9 +73,9 @@ My main interests include:
 
 **Currently Exploring**
 
-🚀 Embedded Systems  
-📡 IoT & Hardware Integration  
-🏭 Industrial Automation  
+🚀 Embedded Systems
+📡 IoT & Hardware Integration
+🏭 Industrial Automation
 🤖 Edge AI & Machine Learning
 
 </td>
@@ -92,6 +91,7 @@ My main interests include:
 ⚙️ Hardware → 🔗 Connectivity → 💻 Software → 🚀 Real-World Impact
 
 </div>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -169,58 +169,12 @@ My main interests include:
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<a href="https://github.com/vasanthss-21">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=vasanthss-21&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" />
-</a>
-
-<a href="https://github.com/vasanthss-21">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vasanthss-21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" />
-</a>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=vasanthss-21&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=vasanthss-21&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophy Wall
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=vasanthss-21&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" />
-
-</div>
-
----
-
 ## 💼 Work Experience
 
 <details>
-<summary><b>🏭 Motherson Automotive Elastomers Technology — Technical Intern | May 2025 – Jun 2025 | Chennai</b></summary>
+<summary><b>🏭 Motherson Automotive Elastomers Technology — Technical Intern | May 2025 – Jun 2025</b></summary>
 
-> `Siemens S7-1200` `PLC` `HMI` `Industrial Automation` `Injection Moulding` `Compression Moulding`
+> `Siemens S7-1200` `PLC` `HMI` `Industrial Automation` `Injection Moulding`
 
 * Gained practical experience configuring **Siemens S7-1200 PLCs and HMI interfaces** for industrial automation and fault analysis.
 * Studied industrial **injection and compression moulding** processes used in automotive elastomer manufacturing.
@@ -230,7 +184,7 @@ My main interests include:
 </details>
 
 <details>
-<summary><b>⚡ IITM & IITM Pravartak — Embedded Systems Trainee | Dec 2024 & Jun 2025 | Chennai</b></summary>
+<summary><b>⚡ IITM & IITM Pravartak — Embedded Systems Trainee | Dec 2024 & Jun 2025</b></summary>
 
 > `Embedded C` `Microcontrollers` `Sensors` `GPIO` `ADC` `I2C` `UART`
 
@@ -242,7 +196,7 @@ My main interests include:
 </details>
 
 <details>
-<summary><b>💻 Dot Com Infoway — Web Development Intern | Nov 2024 – Dec 2024 | Chennai</b></summary>
+<summary><b>💻 Dot Com Infoway — Web Development Intern | Nov 2024 – Dec 2024</b></summary>
 
 > `Java` `React.js` `HTML` `CSS` `JavaScript` `Full Stack` `REST APIs`
 
@@ -273,7 +227,7 @@ My main interests include:
 |                                      Project                                     | Stack                                                        | Highlights                                                                                                                   |
 | :------------------------------------------------------------------------------: | :----------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------- |
 | **[Real-Time Smart Laundry Management System](https://github.com/vasanthss-21)** | `ESP32` `RC522 RFID` `React.js` `Firebase` `Twilio` `SPI`    | End-to-end IoT laundry automation with real-time Firebase synchronization, RFID tracking and automated SMS notifications.    |
-|     **[Distributed Bus Reservation System](https://github.com/vasanthss-21)**    | `React.js` `Spring Boot` `MongoDB Atlas` `REST API` `Render` | Full-stack distributed reservation platform with RESTful APIs, cloud database integration and deployed backend services.     |
+|     **[Distributed Bus Reservation System](https://github.com/vasanthss-21)**    | `React.js` `Spring Boot` `MongoDB Atlas` `REST API` `Render` | Full-stack distributed reservation platform with RESTful APIs, cloud database integration and cloud deployment.              |
 | **[Interactive Cyber-Scam Education Platform](https://github.com/vasanthss-21)** | `React.js` `Node.js` `Firebase`                              | Interactive scam-awareness platform using quizzes and real-life scenarios with responsive UI and real-time backend services. |
 
 </div>
@@ -313,18 +267,28 @@ My main interests include:
 
 ## 📚 Currently Learning
 
-```text
-🔧 Embedded Systems      → ESP32 • Microcontrollers • Sensors • Hardware Integration
-🌐 IoT                   → Real-Time Systems • Cloud Connectivity • Firebase
-📡 Communication         → CAN • I2C • SPI • UART • TCP/IP
-🏭 Industrial Automation → Siemens PLC • HMI • Process Control
-💻 Full-Stack Development → React.js • Spring Boot • REST APIs • Databases
-🤖 AI/ML                 → Scikit-learn • Random Forest • Edge Applications
-```
+<div align="center">
+
+| 🔧 Area                   | 🚀 Focus                                                  |
+| :------------------------ | :-------------------------------------------------------- |
+| **Embedded Systems**      | ESP32 • Microcontrollers • Sensors • Hardware Integration |
+| **IoT**                   | Real-Time Systems • Cloud Connectivity • Firebase         |
+| **Communication**         | CAN • I2C • SPI • UART • TCP/IP                           |
+| **Industrial Automation** | Siemens PLC • HMI • Process Control                       |
+| **AI / ML**               | Scikit-learn • Random Forest • Edge Applications          |
+| **Full-Stack**            | React.js • Spring Boot • REST APIs • Databases            |
+
+</div>
 
 ---
 
 ## 🎨 Beyond Code
+
+<p align="center">
+
+🎨 **Graphic Designer** • 🧑‍💻 **Hackathon Coordinator** • 🔌 **Embedded Enthusiast** • 🧩 **Competitive Programmer**
+
+</p>
 
 * 🎨 Graphic Designer for the **College Magazine & Department Events**
 * 🧑‍💻 Student Coordinator for **Hack4Tomorrow Hackathon**
