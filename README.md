@@ -69,12 +69,6 @@ My main interests include:
 
 `CAN` `I2C` `SPI` `UART`
 
-**Currently Exploring**
-
-🚀 Embedded Systems
-📡 IoT & Hardware Integration
-🏭 Industrial Automation
-🤖 Edge AI & Machine Learning
 
 </td>
 </tr>
@@ -87,6 +81,13 @@ My main interests include:
 > **"Build it. Debug it. Make it smarter."**
 
 ⚙️ Hardware → 🔗 Connectivity → 💻 Software → 🚀 Real-World Impact
+
+>**Currently Exploring**
+
+🚀 Embedded Systems
+📡 IoT & Hardware Integration
+🏭 Industrial Automation
+🤖 Edge AI & Machine Learning
 
 </div>
 
