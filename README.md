@@ -70,6 +70,7 @@ My main interests include:
 `CAN` `I2C` `SPI` `UART`
 
 
+
 </td>
 </tr>
 </table>
