@@ -68,8 +68,9 @@ My main interests include:
 **Protocols**
 
 `CAN` `I2C` `SPI` `UART`
-
-
+<p>
+  
+</p>
 
 </td>
 </tr>
@@ -96,7 +97,7 @@ My main interests include:
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+### Languages
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
@@ -104,21 +105,18 @@ My main interests include:
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Embedded%20C-00599C?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SystemVerilog-1A1A1A?style=flat-square&logoColor=white"/>
 </p>
 
-### ⚛️ Frameworks & Libraries
+### Frameworks & Libraries
 
 <p>
   <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20API-02569B?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
 </p>
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 
 <p>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
@@ -127,7 +125,7 @@ My main interests include:
   <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=git&logoColor=white"/>
 </p>
 
-### 🗄️ Databases
+### Databases
 
 <p>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
@@ -135,7 +133,7 @@ My main interests include:
   <img src="https://img.shields.io/badge/Firebase%20Realtime%20DB-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 </p>
 
-### 🔧 Embedded, Networking & Developer Tools
+### Embedded, Networking
 
 <p>
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
@@ -148,10 +146,14 @@ My main interests include:
   <img src="https://img.shields.io/badge/UART-444444?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/TCP%2FIP-0078D4?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTTP%2FHTTPS-005571?style=flat-square&logoColor=white"/>
+</p>
+
+### Developer Tools
+
+<p>
   <img src="https://img.shields.io/badge/Arduino%20IDE-00979D?style=flat-square&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/STM32CubeIDE-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white"/>
   <img src="https://img.shields.io/badge/Keil-394049?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vivado-FF1010?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/LTspice-8B0000?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Proteus-1F6FEB?style=flat-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
@@ -219,16 +221,18 @@ My main interests include:
 </details>
 
 ---
-
 ## 🚀 Featured Projects
 
 <div align="center">
 
-|                                      Project                                     | Stack                                                        | Highlights                                                                                                                   |
-| :------------------------------------------------------------------------------: | :----------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------- |
-| **[Real-Time Smart Laundry Management System](https://github.com/vasanthss-21)** | `ESP32` `RC522 RFID` `React.js` `Firebase` `Twilio` `SPI`    | End-to-end IoT laundry automation with real-time Firebase synchronization, RFID tracking and automated SMS notifications.    |
-|     **[Distributed Bus Reservation System](https://github.com/vasanthss-21)**    | `React.js` `Spring Boot` `MongoDB Atlas` `REST API` `Render` | Full-stack distributed reservation platform with RESTful APIs, cloud database integration and cloud deployment.              |
-| **[Interactive Cyber-Scam Education Platform](https://github.com/vasanthss-21)** | `React.js` `Node.js` `Firebase`                              | Interactive scam-awareness platform using quizzes and real-life scenarios with responsive UI and real-time backend services. |
+| Project | Stack | Highlights |
+| :--- | :--- | :--- |
+| **[Fault-Tolerant Multi-Protocol Communication System](https://github.com/vasanthss-21)** | `ESP32` `CAN` `RS485` `ESP-NOW` `LoRa` `Embedded C` | Fault-tolerant multi-node communication system with prioritized CAN, ESP-NOW and LoRa communication and automatic fallback for reliable data transmission. |
+| **[IoT-Based Smart Laundry Management System](https://github.com/vasanthss-21)** | `ESP32` `ESP32-CAM` `RC522 RFID` `React.js` `Firebase` `Twilio` `SPI` | End-to-end IoT laundry automation with RFID tracking, vision-based garment identification, real-time Firebase synchronization, SMS notifications and billing/payment integration. |
+| **[Edge-Based Fall Detection and Alerting System](https://github.com/vasanthss-21)** | `Raspberry Pi` `ESP32` `MPU6050` `Python` `Flask` `Scikit-learn` `Twilio` | Edge-based elderly fall detection using MPU6050 motion sensing and camera-based ML classification with automated emergency SMS alerts. |
+| **[Geo-Fenced Child Safety Wristband](https://github.com/vasanthss-21)** | `ESP32` `Neo-6M GPS` `SIM800L` `Firebase` `React.js` `Kalman Filter` `Haversine` | Wearable child safety system with real-time GPS tracking, Kalman-filtered positioning, Haversine-based geo-fencing and emergency alerts. |
+| **[Distributed Bus Reservation System](https://github.com/vasanthss-21)** | `React.js` `Spring Boot` `MongoDB Atlas` `REST API` `Render` | Full-stack distributed reservation platform with RESTful APIs, cloud database integration, booking management and cloud deployment. |
+| **[Interactive Cyber-Scam Education Platform](https://github.com/vasanthss-21)** | `React.js` `Node.js` `Firebase` `JavaScript` | Interactive scam-awareness platform using quizzes and real-life scenarios with responsive UI, dynamic content and real-time backend services. |
 
 </div>
 
